@@ -40,8 +40,6 @@ c. system- checks for system compliance in accordance with the given requirement
 d. acceptance- is done by the user. helps to validate.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 promp engineering is the process of guiding AI i.e chatgpt to generate desired solutions for my problem.
 importance
